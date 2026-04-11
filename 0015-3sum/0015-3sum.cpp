@@ -1,3 +1,5 @@
+//Yeh code 3Sum problem solve karta hai jisme hume array ke andar aise 3 numbers find karne hote hain jinka sum 0 ho. Sabse pehle array ko sort kiya jata hai taaki two-pointer approach use ho sake. Phir har element ko ek baar fix (leader) kiya jata hai aur uske liye target -nums[i] set kiya jata hai. Baaki ke do numbers ko left aur right pointers se dhunda jata hai—agar sum bada hai to right pointer kam hota hai, chhota hai to left pointer badhta hai. Jab exact match milta hai, triplet result me store kar liya jata hai aur duplicates skip kiye jate hain. End me saare unique triplets return ho jate hain.
+
 class Solution {
 public:
 
