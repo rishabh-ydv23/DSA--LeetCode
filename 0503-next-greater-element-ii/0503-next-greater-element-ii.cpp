@@ -10,7 +10,14 @@ public:
             while(!st.empty() && nums[st.top()]<=nums[index]){
                 st.pop();
             }
-            res[i%n]=st.empty() ? -1: nums[st.top()];
+            // res[i%n]=st.empty() ? -1: nums[st.top()];
+
+            if(i<n){
+                if(!st.empty()){
+                    res[index]=nums[st.top()];
+                }
+            }
+
             st.push(index);
         }
         return res;
