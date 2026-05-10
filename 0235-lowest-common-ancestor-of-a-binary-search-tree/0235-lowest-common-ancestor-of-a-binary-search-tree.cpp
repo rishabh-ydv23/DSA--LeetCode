@@ -13,7 +13,8 @@ If both are greater than root → go right
 Otherwise → current root is the LCA
 
  */
-
+//Iterative 
+/*
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
@@ -27,5 +28,22 @@ public:
             }
         }
         return NULL;
+    }
+};
+*/
+//Recursive
+class Solution {
+public:
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        
+            if(p->val < root->val && q->val < root->val){
+                return lowestCommonAncestor(root->left,p,q);
+            }
+            if(p->val > root->val && q->val > root->val){
+                return lowestCommonAncestor(root->right,p,q);
+            }
+            
+        
+        return root;
     }
 };
