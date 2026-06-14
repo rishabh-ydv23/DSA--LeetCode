@@ -2,10 +2,7 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n=nums.size();
-        set<int>s;
-        for(int num:nums){
-            s.insert(num);
-        }
+        set<int>s(nums.begin(),nums.end());
 
         for(int i=0;i<=n;i++){
             if(s.find(i)==s.end()){
