@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1732-find-the-highest-altitude](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1732-find-the-highest-altitude) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
