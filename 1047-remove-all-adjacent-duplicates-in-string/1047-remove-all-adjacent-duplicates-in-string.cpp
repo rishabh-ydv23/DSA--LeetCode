@@ -16,7 +16,7 @@ public:
             str+=st.top();
             st.pop();
         }
-         reverse(str.begin(),str.end());
-         return str;
+        reverse(str.begin(),str.end());
+        return str;
     }
 };
