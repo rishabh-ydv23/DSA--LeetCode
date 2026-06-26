@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
