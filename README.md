@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
