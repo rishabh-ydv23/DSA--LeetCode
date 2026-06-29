@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Math
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
+| [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
 ## String Matching
 |  |
 | ------- |
