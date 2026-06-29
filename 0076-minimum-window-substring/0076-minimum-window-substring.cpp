@@ -16,14 +16,16 @@ public:
         int start_i=0;
 
         while(j<n){
-            char ch=s[j];
+            char ch=s[j];                       //mp[A]>0
 
-            if(mp[ch]>0)
+//mp[A]>0  --Ye A hume sach me chahiye tha. --Agar next A fir aa jaye-False AXdec
+            if(mp[ch]>0)                    
                 requiredCount--;
 
+// Har character ko map me minus karte hain. Window me A a gaya Negative matlab Extra character
             mp[ch]--;
 
-            while(requiredCount==0){
+            while(requiredCount==0){        //Window ko shrink karte hain.
             //shrinking
                 int currWindowSize=j-i+1;
                 if(minWindowSize > currWindowSize){
@@ -31,7 +33,11 @@ public:
                     start_i=i;
                 }
 
+// A=0 Ab A remove kar diya.A=1 Matlab Ab A dobara chahiye.
                 mp[s[i]]++;
+
+// A=1 mp[A]>0  Window me required A missing ho gaya.
+
                 if(mp[s[i]]>0){
                     requiredCount++;
                 }
