@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
