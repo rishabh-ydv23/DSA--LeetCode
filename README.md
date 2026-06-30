@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0189-rotate-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
 | [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
