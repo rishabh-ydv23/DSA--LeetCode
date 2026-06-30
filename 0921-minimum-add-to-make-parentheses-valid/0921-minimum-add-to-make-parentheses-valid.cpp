@@ -18,3 +18,12 @@ public:
         return ans+balance;
     }
 };
+
+// balance = kitne '(' abhi tak close nahi hue.
+// ans = kitne brackets hume add karne pad rahe hain.
+
+// '(' → balance++
+// ')':
+// agar balance > 0 → balance--
+// warna ans++
+// Final answer = ans + balance
