@@ -16,9 +16,12 @@ public:
             {4, "IV"},
             {1, "I"}
         };
-        
+
         string ans;
-        for(auto &[value,symbol]:roman){
+        for(auto &x:roman){
+            int value = x.first;
+            string symbol = x.second;
+            
             while(num>=value){
                 ans+=symbol;
                 num-=value;
