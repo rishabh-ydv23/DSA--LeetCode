@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
