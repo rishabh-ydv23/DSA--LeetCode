@@ -1,15 +1,15 @@
 class Solution {
 public:
 
-    bool dfs(int u,vector<bool>&visited,vector<bool>&inRecursion, vector<vector<int>>&adj){
+    bool isCycle(int u,vector<bool>&visited,vector<bool>&inRecursion, vector<vector<int>>&adj){
         visited[u]=true;
         inRecursion[u]=true;
 
         for(int neighbour:adj[u]){
-            if(!visited[neighbour]){
-                if(dfs(neighbour, visited, inRecursion, adj)){
-                    return true;
-                }
+            // agar visited nhi hai hai to check karenge ke cycle hi ke nhi 
+            if(visited[neighbour]==false && isCycle(neighbour, visited, inRecursion, adj)){
+                // agar isCycle se true aa gya to return true kar denge
+                return true;
             }else if(inRecursion[neighbour]){
                 return true;
             }
@@ -32,10 +32,8 @@ public:
         }
 
         for(int i=0;i<n;i++){
-            if(!visited[i]){
-                if(dfs(i, visited, inRecursion, adj)){
-                    return false;
-                }
+            if(!visited[i] && isCycle(i, visited, inRecursion, adj)){
+                return false;
             }
         }
         return true;
