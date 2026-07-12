@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
