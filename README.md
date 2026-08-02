@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0169-majority-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0210-course-schedule-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
