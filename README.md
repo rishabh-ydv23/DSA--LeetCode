@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1929-concatenation-of-array) |
@@ -274,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0053-maximum-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
