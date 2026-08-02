@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
@@ -275,5 +276,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
