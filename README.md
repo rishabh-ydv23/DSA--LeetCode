@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0930-binary-subarrays-with-sum) |
