@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
