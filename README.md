@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0739-daily-temperatures) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
 ## String Matching
