@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## String Matching
 |  |
 | ------- |
