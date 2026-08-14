@@ -1,34 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> matrixReshape(vector<vector<int>>& mat, int r, int c) {
-        
-        int m = mat.size();
-        int n = mat[0].size();
+        int m=mat.size();
+        int n=mat[0].size();
 
-        // Total elements same hone chahiye
-        if (m * n != r * c) {
-            return mat;
-        }
+        if(m*n != r*c) return mat;
 
-        vector<vector<int>> ans(r, vector<int>(c));
+        int row=0;
+        int col=0;
 
-        int row = 0;
-        int col = 0;
+        vector<vector<int>>ans(r,vector<int>(c));
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-
-                ans[row][col] = mat[i][j];
-
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                ans[row][col]=mat[i][j];
                 col++;
-
-                if (col == c) {
-                    col = 0;
+                if(col==c){
+                    col=0;
                     row++;
                 }
             }
         }
-
         return ans;
     }
 };
