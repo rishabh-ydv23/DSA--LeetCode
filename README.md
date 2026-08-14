@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Breadth-First Search
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1020-number-of-enclaves) |
 ## String Matching
