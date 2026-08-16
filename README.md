@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0832-flipping-an-image) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/0392-is-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh-ydv23/DSA--LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
