@@ -15,17 +15,16 @@ class Solution {
 
     public String reverseWords(String s) {
         String[] words=s.split(" ");
-        String w="";
-        String ans="";
+        StringBuilder ans=new StringBuilder();
         int n=words.length;
+
         for(int i=0;i<n;i++){
-            w=reverse(words[i]);
-            ans+=w;
+            ans.append(reverse(words[i]));
             if(i!=n-1){
-                ans+=" ";
+                ans.append(" ");
             }
         }
-        return ans;
+        return ans.toString();
     }
     
 }
