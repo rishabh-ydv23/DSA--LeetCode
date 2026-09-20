@@ -4,20 +4,12 @@ class Solution {
         int m=t.length();
         if(n!=m) return false;
 
-        int[] freq=new int[26];
-        for(int i = 0; i < n; i++) {
-            freq[s.charAt(i) - 'a']++;
-        }
+        char[] a=s.toCharArray();
+        char[] b=t.toCharArray();
 
-        for(int i = 0; i < m; i++) {
-            freq[t.charAt(i) - 'a']--;
-        }
+        Arrays.sort(a);
+        Arrays.sort(b);
 
-        for(int x:freq){
-            if(x!=0){
-                return false;
-            }
-        }
-        return true;
+        return Arrays.equals(a,b);
     }
 }
